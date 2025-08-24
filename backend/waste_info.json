@@ -1,0 +1,52 @@
+{
+  "plastic": {
+    "decomposition": "450–1000 years",
+    "tip": "Avoid single-use plastics; opt for reusable containers and bags.",
+    "disposal": "Recycle if labeled; otherwise dispose in non-biodegradable bin."
+  },
+  "organic": {
+    "decomposition": "2 weeks to 6 months",
+    "tip": "Compost food scraps and garden waste to enrich soil.",
+    "disposal": "Use compost bin or municipal organic waste service."
+  },
+  "metal": {
+    "decomposition": "30–500 years",
+    "tip": "Rinse and recycle metal containers; sell scrap metal when possible.",
+    "disposal": "Scrap yard or municipal recycling center."
+  },
+  "glass": {
+    "decomposition": "1–2 million years",
+    "tip": "Reuse glass jars and bottles; recycle clean glass.",
+    "disposal": "Glass recycling bin or drop-off center."
+  },
+  "paper": {
+    "decomposition": "2–6 weeks",
+    "tip": "Use both sides before recycling; compost uncoated paper.",
+    "disposal": "Recycle in dry paper bin or compost if uncoated."
+  },
+  "cardboard": {
+    "decomposition": "3 months to 1 year",
+    "tip": "Flatten boxes before recycling; compost if clean and uncoated.",
+    "disposal": "Recycle or compost depending on condition."
+  },
+  "e-waste": {
+    "decomposition": "100–1000+ years",
+    "tip": "Donate or recycle electronics at certified e-waste centers.",
+    "disposal": "Authorized e-waste recycling facility."
+  },
+  "textiles": {
+    "decomposition": "2 weeks to 200+ years",
+    "tip": "Donate wearable clothes; repurpose or recycle damaged textiles.",
+    "disposal": "Textile recycling or donation centers."
+  },
+  "styrofoam": {
+    "decomposition": "500–1000 years",
+    "tip": "Avoid Styrofoam packaging; use biodegradable or reusable alternatives.",
+    "disposal": "Landfill or specialized drop-off (rarely recyclable)."
+  },
+  "default": {
+    "decomposition": "Varies widely",
+    "tip": "Try to identify the material and check local disposal guidelines.",
+    "disposal": "If unsure, dispose in general waste or consult your municipality."
+  }
+}
